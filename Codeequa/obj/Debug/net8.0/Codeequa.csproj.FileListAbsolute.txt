@@ -1,0 +1,5 @@
+C:\Users\AKU\Desktop\task4 engeeneer Mgh 20255\Codeequa\obj\Debug\net8.0\Codeequa.csproj.AssemblyReference.cache
+C:\Users\AKU\Desktop\task4 engeeneer Mgh 20255\Codeequa\obj\Debug\net8.0\Codeequa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKU\Desktop\task4 engeeneer Mgh 20255\Codeequa\obj\Debug\net8.0\Codeequa.AssemblyInfoInputs.cache
+C:\Users\AKU\Desktop\task4 engeeneer Mgh 20255\Codeequa\obj\Debug\net8.0\Codeequa.AssemblyInfo.cs
+C:\Users\AKU\Desktop\task4 engeeneer Mgh 20255\Codeequa\obj\Debug\net8.0\Codeequa.csproj.CoreCompileInputs.cache

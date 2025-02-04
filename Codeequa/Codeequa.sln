@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codeequa", "Codeequa.csproj", "{F5761DAD-8C76-4DE0-915A-0A93C799A172}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xunittest", "..\Xunittest\Xunittest.csproj", "{41B60C7E-ED0C-4B88-BF31-1A15CCFA7973}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5761DAD-8C76-4DE0-915A-0A93C799A172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5761DAD-8C76-4DE0-915A-0A93C799A172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5761DAD-8C76-4DE0-915A-0A93C799A172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5761DAD-8C76-4DE0-915A-0A93C799A172}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41B60C7E-ED0C-4B88-BF31-1A15CCFA7973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41B60C7E-ED0C-4B88-BF31-1A15CCFA7973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41B60C7E-ED0C-4B88-BF31-1A15CCFA7973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41B60C7E-ED0C-4B88-BF31-1A15CCFA7973}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BADACE47-F899-4FB4-9B05-C0B9FEC24965}
+	EndGlobalSection
+EndGlobal
